@@ -1,6 +1,6 @@
 {
-    "name": "login_heveapp",
-    "short_name": "login_heveapp",
+    "name": "news_hive",
+    "short_name": "news_hive",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

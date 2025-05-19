@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_heveapp/views/register_page.dart';
+import 'package:news_hive/views/register_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

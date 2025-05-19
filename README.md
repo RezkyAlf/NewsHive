@@ -1,4 +1,4 @@
-# login_heveapp
+# NewsHive
 
 A new Flutter project.
 

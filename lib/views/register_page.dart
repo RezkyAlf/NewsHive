@@ -89,9 +89,11 @@ class _RegisterPageState extends State<RegisterPage> {
               SizedBox(
                 width: double.infinity,
                 child: ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    
+                  },
                   child: Text(
-                    "Login",
+                    "Register",
                     style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                   ),
                 ),

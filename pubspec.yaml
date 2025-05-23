@@ -65,6 +65,9 @@ flutter:
      - assets\images\img intro 3.png 
      - assets\images\logo and title.png
      - assets\images\news logo.png
+     - assets\images\indo.jpg
+     - assets\images\gta.jpeg
+     - assets\images\bitcoin.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
